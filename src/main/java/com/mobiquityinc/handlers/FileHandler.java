@@ -67,7 +67,7 @@ public class FileHandler implements Handler {
         processFile();
 
         //If successor set, then call it
-        if(successor != null) {
+        if (successor != null) {
             successor.handle(request);
         }
     }

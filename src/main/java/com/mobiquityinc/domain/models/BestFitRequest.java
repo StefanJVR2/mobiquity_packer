@@ -2,8 +2,8 @@ package com.mobiquityinc.domain.models;
 
 /**
  * @author Stefan Janse van Rensburg
- * @link https://www.codeproject.com/KB/architecture/594974/simple_chain_of_resp.png
  * @version 1.0
+ * @link https://www.codeproject.com/KB/architecture/594974/simple_chain_of_resp.png
  */
 public class BestFitRequest {
     private String filepath;
